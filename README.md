@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @IMvampireXD
-- 👀 I’m interested in Ethical Hacking and Game Programming
-- 🌱 I’m currently learning Python, JavaScript, Lua, Bash, Makefile
+- You can contact me on Discord: (username: finnafinest_)
+- 👀 I’m interested in Bedrock Script API
+- 🌱 I’m currently learning JavaScript Node.js
