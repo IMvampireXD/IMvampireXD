@@ -1,8 +1,8 @@
 <h1 align="center">Hai 👋</h1>  
 
 <h2 align="center" style="font-size: 18px;">
-  I'm mostly known as <strong>finnafinest_</strong>, 
-  I like JavaScript and enjoy making stuff in Minecraft, 
+  I'm mostly known as <strong>finnafinest_</strong><br>
+  I like JavaScript and enjoy making stuff in Minecraft<br>
   Currently learning <strong>Minecraft Bedrock Script API</strong>
 </h2>
 
