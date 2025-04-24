@@ -6,8 +6,6 @@
   Currently learning <strong>Minecraft Bedrock Script API</strong>
 </h2>
 
-<br>
-
 <h3 align="center">Languages</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
