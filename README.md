@@ -1,6 +1,6 @@
 <h1 align="center">Hai 👋</h1>  
 
-<h2 align="center" style="font-size: 18px;">
+<h2 align="center" style="font-size: 18px; margin: 0; padding: 0; text-decoration: none; border: none;">
   I'm mostly known as <strong>finnafinest_</strong><br>
   I like JavaScript and enjoy making stuff in Minecraft<br>
   Currently learning <strong>Minecraft Bedrock Script API</strong>
